@@ -1,0 +1,42 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+
+    <title>Hello, world!</title>
+  </head>
+  <body>
+    <div class="container">
+      <div class="row">
+			<div class="col-md-5">
+				<center><img src="https://raw.githubusercontent.com/VasiliyWebDesign/HerzenPractice1/master/2U3sAYYirRI.jpg" style="width: 80%"></center>
+				<br>
+            </div> <!--  div.col-md-5 -->
+
+
+            <div class="col-md-7">
+            	<h4>Григорий Филиппович Зонов</h4>
+
+            	<p>
+            		Я хотел бы рассказать о своем прадедушке – Григории Филипповиче Зонове. Он родился в деревне в Кировской области, был крестьянином, летом 1939 его забрали в армию, а в декабре того же года родилась его дочь - моя бабушка. Он должен был вернуться из армии летом 1941 года, но не смог, так как сразу пошел на фронт, был танкистом. Моя бабушка так никогда и не увидела своего отца, он погиб в 1944 при освобождении Белоруссии и похоронен в общей могиле.  Единственное, что было на память моей бабушке о нем - это  его письма, они бережно хранились в комоде,  но в голодные военные годы их съели мыши. Осталась лишь эта фотография и наша семья хранит ее как память о нашем прадедушке и как память  всех тех, кто погиб на этой войне и чьи семьи никогда больше их не видели.
+                </p>
+            </div> <!--  div.col-md-7 -->
+        </div> <!-- div.row -->
+
+
+        
+    </div>
+ 
+
+    <!-- Optional JavaScript -->
+    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+    <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
+  </body>
+</html><html>...</html>
